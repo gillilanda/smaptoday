@@ -14,4 +14,4 @@ nav_enabled: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
-nav_sort: case_sensitive # Capital letters sorted before lowercase
+nav_sort: case_insensitive # Capital letters sorted before lowercase
