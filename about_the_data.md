@@ -1,6 +1,7 @@
 ---
 title: About the Data
 layout: home
+nav_order: 2
 ---
 Test about the data page
 
