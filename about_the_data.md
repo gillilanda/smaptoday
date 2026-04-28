@@ -4,7 +4,7 @@ layout: home
 nav_order: 3
 ---
 The Soil Moisture Active Passive (SMAP) NASA satellite mission launched in 2015 and continues collecting data to the present day. A majority of the SMAP mission data products are long-term and derived from L-band radiometer brightness temperature data. Shortly after the satellite was launched in March 2015, the L-band radar instrument failed, leaving only 5 months of radar-derived SMAP data. The radiometer instrument measures the naturally occurring radio frequency (within L-band frequencies) emitted from the Earth. The L-band frequency is not affected by cloud cover, weather, or most vegetation. Within the L-band frequency, water-saturated soil is measured as "warm" while dry soil is measured as "cold". The SMAP instrument has a sun-synchronous polar orbit and a revisit time of 2 days in polar regions and 3 days near the equator. 
-
+test
 The SMAP mission provides global measurements of soil moisture and freeze-thaw conditions to better understand how Earth’s water, energy, and carbon cycles interact and influence climate and ecosystems. SMAP's scientific objectives include improving knowledge of how these cycles are linked, estimating water and energy movement at the land surface, and quantifying carbon flux, including sensitive boreal regions where frozen or thawed ground greatly affects carbon release. SMAP helps enhance weather and climate prediction, supports flood forecasting, and drought monitoring. Overall, the mission aims to reduce uncertainties in environmental models and improve understanding of how Earth’s systems respond to natural variability and climate change.
 
 <img width="600" height="452" alt="SMAP_data_orbit" src="https://github.com/user-attachments/assets/6013c06c-83f5-4dc7-83f3-4d7cff280bb5" />
