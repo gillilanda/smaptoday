@@ -1,7 +1,7 @@
 ---
 title: 2Python Tutorial 
 layout: home
-nav_order: 35
+nav_order: 5
 ---
 
 ## Accessing and Visualizing SMAP data in the Cloud
