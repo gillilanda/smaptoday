@@ -6,6 +6,9 @@ nav_order: 2
 
 Test colorado sm page
 
+<img width="2492" height="1994" alt="colorado_sm_nov" src="https://github.com/user-attachments/assets/619e9203-0f46-46b0-abdf-c0f02b81a777" />
+
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
