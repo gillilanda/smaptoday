@@ -1,9 +1,10 @@
 ---
-title: Introduction
+title: Colorado Soil Moisture
 layout: home
 nav_order: 2
 ---
-Test introduction page
+
+Test colorado sm page
 
 ----
 
