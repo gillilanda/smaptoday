@@ -1,8 +1,11 @@
-[GEOL5093_notebook.html](https://github.com/user-attachments/files/27184009/GEOL5093_notebook.html)---
+---
 title: Python Tutorial 
 layout: home
 nav_order: 3
 ---
+
+[GEOL5093_notebook.html](https://github.com/user-attachments/files/27184009/GEOL5093_notebook.html)
+
 [Uploading GEOL5093_no<!DOCTYPE html>
 
 <html lang="en">
