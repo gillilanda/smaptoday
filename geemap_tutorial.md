@@ -1,5 +1,5 @@
 ---
-title: 2Python Tutorial 
+title: Python Tutorial 
 layout: home
 nav_order: 5
 ---
@@ -14,7 +14,7 @@ The code included in this tutorial is available as a Jupyter Notebook in my GitH
 1. Setup a [Google Earth Engine](https://earthengine.google.com/) account and set up a cloup project. Make note of your cloud project ID.
 2. Install geemap python library (plus any others not already installed)
 
-## Import Libaries
+## Import Libraries
 
 
 ```python
@@ -33,7 +33,7 @@ ee.Authenticate()
 ee.Initialize(project='project ID')
 ```
 
-## Change varibles with desired dates, bands, and output file paths
+## Change variables with desired dates, bands, and output file paths
 
 
 ```python
@@ -51,7 +51,7 @@ output_raster= "/path.tif"
 
 
 ```python
-# IN PROGRESS - figure out how to print statistic value instead of download single csv
+# IN PROGRESS - figure out how to print the statistic value instead of downloading a single CSV
 
 def get_mean(raster, zones, output_file):
     """Input raster, zone (or study region), output file path, statistic type, and scale. Allowed output formats: csv, shp, json, kml, kmz. Allowed statistics type: MEAN, MAXIMUM, MINIMUM, MEDIAN, STD, MIN_MAX, VARIANCE, SUM """    
@@ -59,7 +59,7 @@ def get_mean(raster, zones, output_file):
     return print(zone_stats)
 ```
 
-## load smap data from GEE and explore available bands 
+## Load SMAP data from GEE and explore available bands 
 
 
 ```python
@@ -73,7 +73,7 @@ smap_collection
 ```
 
 ## Select band
-Select a single band to focus statistics (selected above) on then apply the mean reducer function, which calcualtes the mean raster of your selected band.
+Select a single band to focus statistics (selected above) on, then apply the mean reducer function, which calculates the mean raster of your selected band.
 
 
 ```python
@@ -85,7 +85,7 @@ mean_smap_raster = smap_bands.reduce(ee.Reducer.mean())
 ```
 
 ## Choose clipping area
-Load the US states you would like to clip the data to. All lower 48 US states are included by defualt. 
+Load the US states you would like to clip the data to. All lower 48 US states are included by default. 
 
 
 ```python
@@ -134,7 +134,7 @@ m
 ```
 
 ## Download the mean raster to your computer (must clip to bounding box - working on this to clip to image collection)
-In progress - figure out how to clip to the state boundaries instead of bounding box
+In progress - figure out how to clip to the state boundaries instead of the bounding box
 
 
 
