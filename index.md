@@ -11,7 +11,7 @@ An example of Soil Moisture in the United States, May 27-31, 2015
 
 ---
 References 
-US Geological Survey, 2023, Soil moisture and drought: https://www.usgs.gov/special-topics/water-science-school/science/soil-moisture-and-drought
+- US Geological Survey, 2023, Soil moisture and drought: https://www.usgs.gov/special-topics/water-science-school/science/soil-moisture-and-drought
  (accessed April 24, 2026).
  
 ----
