@@ -3,6 +3,10 @@ title: Overview
 layout: home
 nav_order: 1
 ---
+## Assesment of Long Term US & Colorado Soil Moisture
+### By Amy Gilliland
+### GEOL 5093
+
 Soil moisture measurements in the United States have a wide variety of applications, including agriculture, disaster management, weather and climate forecasting, and more (USGS 2023). Remotely sensed soil moisture provides stakeholders with large-scale, long-term, and recurring soil moisture measurements without having to be physicaly in person. One of the drawbacks to using remotely sensed data is the cost and processing power required to effectively analyze large amounts of data. In this project, I aim to create a tool that allows users to access, analyze, and visualize soil moisture data without downloading it to their local machine. To do this, I utilize the Google Earth Engine cloud environment, which is free of cost for academic researchers and students. After creating the tool, I utilize it to calculate and compare November soil moisture averages in the United States.
 
 An example of Soil Moisture in the United States, May 27-31, 2015 
