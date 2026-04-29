@@ -22,7 +22,7 @@ The chart shows how the mean root-zone soil moisture across the United States ch
 
 This animation displays Colorado soil moisture rootzone data from NASA's SMAP satellite mission (SPL4SMPG) for the month of November, averaged for each year. The color scale shows how dry or wet the soil is, with darker blues and greens indicating wetter soil, while red colors and orange represent drier conditions. The map reveals clear regional patterns over time, with generally wetter soils in parts of the eastern U.S., Pacific Northwest, and along certain river systems, and drier conditions across much of the western regions.
 
-<img width="540" height="324" alt="image" src="https://github.com/user-attachments/assets/9527afb8-1169-4c22-9828-89fe046d486c" />
+<img width="540" height="324" alt="image" src="https://github.com/user-attachments/assets/0ad2b8cd-b8fd-432b-b387-33c73fe1b02a" />
 
 This chart shows the mean November rootzone soil moisture across Colorado from 2015 to 2025, showing moderate variability over time rather than a strong long-term trend. Soil moisture starts relatively high in 2015, drops noticeably in 2016, and then recovers through 2017–2018. A decline follows, reaching the lowest levels around 2019–2020, suggesting a drier period. After 2020, moisture levels gradually increase again, with a steady rise through 2021–2022 and a more pronounced peak around 2024, the wettest year in the dataset. There is a slight decrease in 2025, but levels remain higher than the earlier low period. Overall, my findings suggest more cyclical fluctuations in soil moisture rather than a consistent upward or downward trend.
 
