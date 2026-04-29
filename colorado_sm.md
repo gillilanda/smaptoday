@@ -6,8 +6,7 @@ nav_order: 4
 
 ## United States November Soil Moisture Rootzone 2015-2025
 
-<img width="1737" height="924" alt="smrootzone_yearly" src="https://github.com/user-attachments/assets/3e393808-f84c-4914-a485-4f89f4ba4368" />
-<img width="119" height="201" alt="image" src="https://github.com/user-attachments/assets/608a5601-a577-42c6-b28c-e819399acbe3" />
+|<img width="1737" height="924" alt="smrootzone_yearly" src="https://github.com/user-attachments/assets/3e393808-f84c-4914-a485-4f89f4ba4368" />|<img width="119" height="201" alt="image" src="https://github.com/user-attachments/assets/608a5601-a577-42c6-b28c-e819399acbe3" />|
 
 
 This animation displays United States soil moisture rootzone data from NASA's SMAP satellite mission (SPL4SMPG) for the month of November, averaged for each year. The color scale shows how dry or wet the soil is, with darker blues and greens indicating wetter, more saturated ground, while red colors and orange represent drier conditions. The map reveals clear regional patterns over time, with generally wetter soils in parts of the eastern U.S., Pacific Northwest, and along certain river systems, and drier conditions across much of the western regions.
