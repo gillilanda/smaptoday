@@ -13,15 +13,14 @@ The SMAP mission provides global measurements of soil moisture and freeze-thaw c
 
 For this study, I focus on the *SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data, Version 8* (SPL4SMGP) data product. SPL4SMGP includes multiple soil moisture parameters, including surface soil moisture (0-5cm), rootzone soil moisture (0-100cm), and profile soil moisture (0-bedrock depth cm). The data have a spatial resolution of 9km x 9km and consist of 3-hourly time-averaged science parameters, resulting in about 8 global data files per day.
 
+---
 References 
-Reichle, R.H., G. De Lannoy, R.D. Koster, W.T. Crow, J.S. Kimball, Q. Liu, and M. Bechtold. 2025. SMAP
+- Entekhabi Dara, N.J., Njoku, E.G., O’Neill, P.E., et al., 2010, The Soil Moisture Active Passive (SMAP) mission: Proceedings of the IEEE, v. 98, no. 5, p. 704–716, https://doi.org/10.1109/JPROC.2010.2043918.
+- National Aeronautics and Space Administration (NASA), n.d., SMAP multimedia: Jet Propulsion Laboratory, available at https://smap.jpl.nasa.gov/multimedia/age=0&per_page=25&order=created_at+desc&search=&href_query_params=category%3Dimages&condition_1=1%3Ais_in_resource_list&category=51%2C53 (last accessed April 19, 2026).
+- Reichle, R.H., G. De Lannoy, R.D. Koster, W.T. Crow, J.S. Kimball, Q. Liu, and M. Bechtold. 2025. SMAP
 L4 Global 3-hourly 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data, Version 8.
-[Indicate subset used]. Boulder, Colorado, USA. NASA National Snow and Ice Data Center Distributed
-Active Archive Center. https://doi.org/10.5067/T5RUATAQREF8.(last accessed April 20, 2026).
-
-National Aeronautics and Space Administration (NASA), n.d., SMAP multimedia: Jet Propulsion Laboratory, available at https://smap.jpl.nasa.gov/multimedia/?page=0&per_page=25&order=created_at+desc&search=&href_query_params=category%3Dimages&condition_1=1%3Ais_in_resource_list&category=51%2C53 (last accessed April 19, 2026).
-<img width="2299" height="32" alt="image" src="https://github.com/user-attachments/assets/505f18b7-fd0d-4f11-9eff-d9f4fdf6bc6d" />
-
+SPL4SMGP. Boulder, Colorado, USA. NASA National Snow and Ice Data Center Distributed
+Active Archive Center. https://doi.org/10.5067/T5RUATAQREF8.(last accessed April 20, 2026)
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
