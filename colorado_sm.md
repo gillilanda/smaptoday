@@ -18,7 +18,7 @@ The chart shows how the mean root-zone soil moisture across the United States ch
 ## Colorado November Soil Moisture Rootzone 2015-2025
 
 |<img width="1246" height="997" alt="colorado_sm_nov" src="https://github.com/user-attachments/assets/619e9203-0f46-46b0-abdf-c0f02b81a777" />|
-<img width="244" height="396" alt="Screenshot 2026-04-28 at 11 12 45 PM" src="https://github.com/user-attachments/assets/3f64cbaf-901d-4ffa-aa91-214859d0eead" />|
+<img width="122" height="198" alt="Screenshot 2026-04-28 at 11 12 45 PM" src="https://github.com/user-attachments/assets/3f64cbaf-901d-4ffa-aa91-214859d0eead" />|
 
 This animation displays Colorado soil moisture rootzone data from NASA's SMAP satellite mission (SPL4SMPG) for the month of November, averaged for each year. The color scale shows how dry or wet the soil is, with darker blues and greens indicating wetter, more saturated ground, while red colors and orange represent drier conditions. The map reveals clear regional patterns over time, with generally wetter soils in parts of the eastern U.S., Pacific Northwest, and along certain river systems, and drier conditions across much of the western regions.
 
