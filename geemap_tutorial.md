@@ -4,7 +4,7 @@ layout: home
 nav_order: 4
 ---
 
-## Accessing and Visualizing SMAP data in the Cloud
+## Accessing, Analyzing, and Visualizing SMAP data in the Cloud
 
 This tutorial is designed to analyze and visualize data from the Soil Moisture Active Passive (SMAP) mission available on Google Earth Engine's cloud. The [geemap](https://geemap.org/) Python library allows users to access Google Earth Engine SMAP data, conduct their analysis, and visualize the data all without downloading anything to their local machine. SMAP data is traditionally available through the [National Snow and Ice Data Center](https://nsidc.org/data/smap) via NASA's Earthdata Search, the CMR archive, and direct cloud access on Amazon Web Services (AWS), all of which require either downloading or paying for cloud processing. The advantage of Google Earth Engine is that it currently allows cloud processing free of charge for academic research and education. 
 
@@ -12,7 +12,7 @@ The code included in this tutorial is available as a Jupyter Notebook in my GitH
 
 ## Prerequisites
 1. Setup a [Google Earth Engine](https://earthengine.google.com/) account and set up a cloup project. Make note of your cloud project ID.
-2. Install geemap python library (plus any others not already installed)
+2. Install the geemap Python library (plus any others not already installed)
 
 ## Import Libraries
 
@@ -41,7 +41,7 @@ gee_proj_id= 'project-ID'
 start_date='2025-11-01'
 end_date='2025-11-30'
 band_selection= 'sm_rootzone'
-# add _mean to the the original band name
+# add _mean to the original band name
 mean_band_selection='sm_rootzone_mean'
 output_stats = " /path.csv" 
 output_raster= "/path.tif"
