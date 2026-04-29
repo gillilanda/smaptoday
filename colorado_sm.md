@@ -1,7 +1,7 @@
 ---
 title: Soil Moisture Analysis
 layout: home
-nav_order: 4
+nav_order: 6
 ---
 
 ## United States November Soil Moisture Rootzone 2015-2025
