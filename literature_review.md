@@ -16,20 +16,18 @@ Soil moisture measurements have a wide array of applications, including:
 - Predicting crop yields
 - Managing irrigation
 - Monitoring wildfire risk
-  
-SM role in climate and weather 
 
-Techniques for monitoring SM
+For this study, I assess rootzone soil moisture for the month of November. I selected a single month to limit the amount of data and workload for this project; however, the tool created could be used for any time period. November was selected due to the month’s importance for forecasting agricultural conditions (Osenga, 2021).
 
-
-Strangeways, I.C., 2003, Soil moisture and groundwater, in Measuring the Natural Environment: Cambridge, Cambridge University Press, p. 178–222, https://doi.org/10.1017/CBO9781139087254.009
-
-Hillel, D., 1998, Environmental Soil Physics: San Diego, California, Academic Press, 771 p.
-
-Reichle, R.H., G. De Lannoy, R.D. Koster, W.T. Crow, J.S. Kimball, Q. Liu, and M. Bechtold. 2025. SMAP
+---
+References 
+- Hillel, D., 1998, Environmental Soil Physics: San Diego, California, Academic Press, 771 p.
+- Reichle, R.H., G. De Lannoy, R.D. Koster, W.T. Crow, J.S. Kimball, Q. Liu, and M. Bechtold. 2025. SMAP
 L4 Global 3-hourly 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data, Version 8.
 SPL4SMGP. Boulder, Colorado, USA. NASA National Snow and Ice Data Center Distributed
 Active Archive Center. https://doi.org/10.5067/T5RUATAQREF8.
+- Strangeways, I.C., 2003, Soil moisture and groundwater, in Measuring the Natural Environment: Cambridge, Cambridge University Press, p. 178–222, https://doi.org/10.1017/CBO9781139087254.009
+- Osenga, E., 2021, Year-end soil moisture update: Aspen Global Change Institute, December 21, available at https://www.agci.org/blog/year-end-soil-moisture-update (last accessed April 20, 2026). 
 
 ----
 
