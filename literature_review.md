@@ -1,7 +1,7 @@
 ---
 title: What is Soil Moisture?
 layout: home
-nav_order: 4
+nav_order: 2
 ---
 
 <img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/6334237a-4471-4808-957d-cdba859726c0" />
